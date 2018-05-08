@@ -1,0 +1,141 @@
+﻿body {
+    margin: 0 auto;
+    background-color:#8d1019;
+}
+
+.container{
+    width: 1000px;
+    height: auto;
+    text-align: center;
+    background-color: #f8efd0;
+    margin: 0 auto;
+    margin-top: 70px;
+    border-radius: 4px;
+}
+
+.MenuButtonsContainer{
+    width: 800px;
+    height: auto;
+    text-align: center;
+    background-color: #f8efd0;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-radius: 4px;
+}
+
+.container img{
+    width: 170px;
+    height: 100px;
+    margin-top: -50px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.TitleContainer{
+    width: auto;
+    height: 100px;
+    color:#f0c020;
+    background-color:#561a25;
+    margin: 0 auto;
+    margin-bottom:30px;
+    margin-top: 30px;
+    border-radius: 4px;
+    text-align: center;
+    font-size:30pt;
+}
+
+.registerTable{
+    margin: 10px auto;
+    font-weight:normal;
+    width:100%;
+}
+
+.input{
+    height: 30px;
+    width: 170px;
+    font-size: 15px;
+    margin-bottom:5px;
+    background-color: #fff;
+    padding-left: 10px;
+}
+
+.btnStyle{
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    padding: 7px 10px;
+    font-family:'Berlin Sans FB';
+    color:#f0c020;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: #8d1019;
+    margin-bottom: 20px;
+    margin-top:10px;
+    width:150px;
+    height:40px;
+    text-align: center;
+}
+
+.btnMenuStyle{
+    background-color: #8d1019;
+    color:#f0c020;
+    font-family:'Berlin Sans FB';
+    border-radius:4px;
+    border:none;
+    width:450px;
+    height:100px;
+    cursor:pointer;
+    font-size:25pt;
+    padding: 15px 20px;
+    margin-bottom:15px;
+    margin-top:15px;
+}
+
+.btnLogoutStyle{
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    padding: 7px 10px;
+    font-family:'Berlin Sans FB';
+    color:#f0c020;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: #8d1019;
+    margin-bottom: 20px;
+    margin-top:19px;
+    margin-right:10px;
+    width:100px;
+    height:40px;
+    text-align: center;
+    font-size:15pt;
+    float:right;
+}
+
+.btnStyle:hover{
+    background-color: #561a25;
+}
+.btnMenuStyle:hover{
+    background-color: #561a25;
+}
+.btnLogoutStyle:hover{
+    background-color:#561a25;
+}
+
+.lblTitleStyle{
+    color:#f0c020;
+    font-family:'Berlin Sans FB';
+    font-size:30pt;
+}
+
+.lblStyle{
+    color:#f0c020;
+    font-family:'Berlin Sans FB';
+    font-size:25pt;
+}
+
+.lblSmallStyle{
+    color:#f0c020;
+    font-family:'Berlin Sans FB';
+    font-size:15pt;
+    text-align: right;
+}
